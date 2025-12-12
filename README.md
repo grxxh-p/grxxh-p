@@ -1,16 +1,33 @@
 ## Hi there 👋
 
 <!--
-**grxxh-p/grxxh-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Greshmaa
 
-Here are some ideas to get you started:
+I’m a curious learner who loves solving problems with data.
+I’m currently studying Math, Statistics, and Data Science, and building my way toward becoming a Data Scientist / ML Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 What I’m currently learning
+
+- Python for Data Science
+
+- Pandas, NumPy & visualizations
+
+- Machine Learning foundations
+
+
+🔍 What I love working on
+
+- Data cleaning & exploration
+
+- Build strong DS & ML foundations
+
+- Gain confidence in ML algorithms and problem-solving
+
+
+📂 Some of my projects
+
+
+🤝 Let’s connect
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/greshmaa-p-5697b7344/)
+
 -->
