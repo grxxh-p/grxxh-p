@@ -15,7 +15,7 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 - Machine Learning foundations
 
 
-🔍 What I love working on
+🎯 Goals
 
 - Data cleaning & exploration
 
