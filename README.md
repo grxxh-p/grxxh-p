@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi,  I'm Greshmaa 👋
 
 
-👋 Hi, I'm Greshmaa
+ꕤ About me:
 
 I’m a curious learner who loves solving problems with data.
 I’m currently studying Math, Statistics, and Data Science, and building my way toward becoming a Data Scientist / ML Engineer.
 
-🌱 What I’m currently learning
+⟡ What I’m currently learning
 
 - Python for Data Science
 
@@ -15,7 +15,7 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 - Machine Learning foundations
 
 
-🎯 Goals
+⟡ Goals
 
 - Data cleaning & exploration
 
@@ -24,10 +24,10 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 - Gain confidence in ML algorithms and problem-solving
 
 
-📂 Some of my projects
+🗄 Some of my projects
 
 
-🤝 Let’s connect
+🔗 Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/greshmaa-p-5697b7344/)
 
