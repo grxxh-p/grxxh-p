@@ -1,14 +1,14 @@
 ## Hi,  I'm Greshmaa 👋
 
 
-ꕤ About me:
+ ⭐ About me:
 
 I’m a curious learner who loves solving problems with data.
 I’m currently studying Math, Statistics, and Data Science, and building my way toward becoming a Data Scientist / ML Engineer.
 
 
 
-⟡ What I’m currently learning
+📖 What I’m currently learning
 
 - Python for Data Science
 
@@ -18,7 +18,7 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 
 
 
-⟡ Goals
+ 🎯 Goals
 
 - Data cleaning & exploration
 
