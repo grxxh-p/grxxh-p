@@ -28,6 +28,7 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 
 
 🤝 Let’s connect
+
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/greshmaa-p-5697b7344/)
 
 
