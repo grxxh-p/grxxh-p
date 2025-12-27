@@ -13,6 +13,8 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 - Build strong DS & ML foundations
 
 - Gain confidence in ML algorithms and problem-solving
+  
+
 
 ## 🧠 Tech Stack (Data Science & Machine Learning)
 
@@ -30,8 +32,15 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-6C3483?style=for-the-badge)
 ![Calculus](https://img.shields.io/badge/Calculus-1ABC9C?style=for-the-badge)
 
-🗄 Some of my projects
 
+
+## 🗄 Some of my projects
+**[Superstore Analysis](https://github.com/grxxh-p/Superstore-Analysis)**
+- Analyzed US retail data to identify profit and loss drivers across regions.
+- Applied EDA, feature engineering, K-Means clustering, and regression models.
+- Built regression models achieving an R² score of 0.84.
+- Identified discount-heavy, underperforming product groups using clustering.
+  
 
 
 🔗 Let’s connect
