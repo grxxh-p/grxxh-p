@@ -44,7 +44,7 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 **[UK-Retail-Data-Analysis-Insights](https://github.com/grxxh-p/UK-Retail-Data-Analysis-Insights)**
 - Examined customer-level transaction data to understand purchasing behavior and patterns.
 - Explored sales activity, returns, cancellations, and seasonal trends using EDA.
-- Used RFM analysis to group customers by recency, frequency, and spending behavior.
+- Applied RFM analysis to group customers by recency, frequency, and spending behavior.
 - Automated customer grouping with a ML classifier to support segment-level value analysis.
 
 🔗 Let’s connect
