@@ -41,7 +41,11 @@ I’m currently studying Math, Statistics, and Data Science, and building my way
 - Built regression models achieving an R² score of 0.84.
 - Identified discount-heavy, underperforming product groups using clustering.
   
-
+**[UK-Retail-Data-Analysis-Insights](https://github.com/grxxh-p/UK-Retail-Data-Analysis-Insights)**
+- Examined customer-level transaction data to understand purchasing behavior and patterns.
+- Explored sales activity, returns, cancellations, and seasonal trends using EDA.
+- Used RFM analysis to group customers by recency, frequency, and spending behavior.
+- Automated customer grouping with a ML classifier to support segment-level value analysis.
 
 🔗 Let’s connect
 
